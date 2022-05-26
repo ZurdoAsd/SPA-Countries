@@ -1,0 +1,19 @@
+
+.number{
+    display: inline-block;
+	padding: 5px;
+	text-decoration: none;
+	
+}
+.bot{
+	background-color: rgba(167, 167, 174, 0.43);
+    color: rgb(0, 0, 0);
+    letter-spacing: 1px;
+    padding: 1px;
+	border-radius: 7px;
+	width: 30px;
+	height: 30px;
+}
+.bot:hover {
+    background-color: var(--primary-color);
+  }

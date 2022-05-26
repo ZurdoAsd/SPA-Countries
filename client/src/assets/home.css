@@ -1,0 +1,18 @@
+
+.Home {
+  background-color: rgb(31, 29, 29);
+  background-image: url(https://images.unsplash.com/photo-1563705343138-780c54f8b7ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFwYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 65% 95%;
+  display: block;
+}
+
+.botForm{
+  background: rgba(255, 255, 255, 0.397);
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.498);
+}
+.botForm:hover {
+  background-color: var(--primary-color);
+}

@@ -1,0 +1,22 @@
+.contenedor{
+    background-color:rgba(53, 3, 73, 0.637);
+    display: flex;
+    flex-wrap: wrap;
+    color: #fff;
+    padding: 5px ;}
+
+    .filtro{
+        margin-left: 1%;
+        margin-right: 1%;
+       display: grid;
+       grid-template-columns:  10% 10% 10% 10%;
+       /* margin-inline-end: 8%; */
+      
+       display: flex;
+        flex-wrap: wrap;
+        color: rgb(255, 255, 253);
+        -webkit-text-stroke-color: ivory;
+        display:inline;
+        font-size: 18px;
+    
+    }

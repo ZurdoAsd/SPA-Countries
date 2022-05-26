@@ -1,0 +1,18 @@
+.head{
+    /* background: url(https://media.istockphoto.com/photos/gold-texture-background-picture-id1286379737?b=1&k=20&m=1286379737&s=170667a&w=0&h=Ctt1NL8S-BXCJJVRDp9kUTGIZm1nHW3mxky_EdL0FAg=); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 65% 95%;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    align-items: center;
+    color: rgb(11, 10, 11);
+    line-height : 30px;
+    
+
+}
+.image {
+    margin: 2%;
+}
+
+
